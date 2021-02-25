@@ -17,3 +17,8 @@ h1 {
 max-width: 350px;
 max-height: 35050px;
 }
+.profile {
+	h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+}
