@@ -1,5 +1,5 @@
 body {
-  background-color: #d7e5f6;
+  background-color: #ffffff;
 	font-family: Arial;
 }
 
@@ -11,6 +11,9 @@ h1 {
   background-color: #3886ff ;
   padding: 10px ;
   border: 1px solid blue ;
+  h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 } 
 #logo {
 
